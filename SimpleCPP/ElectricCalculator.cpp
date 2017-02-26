@@ -1,3 +1,5 @@
+//tinh tien dien chi dung if-else, cin, cout
+
 #include "stdafx.h"
 #include <iostream>
 
